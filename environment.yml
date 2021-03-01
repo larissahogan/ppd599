@@ -1,4 +1,4 @@
-name: ppd599
+name: project599
 channels:
   - conda-forge
 dependencies:
@@ -23,6 +23,7 @@ dependencies:
   - scikit-learn
   - scipy
   - statsmodels
+  - xlrd
 
   # possible
   - bokeh
