@@ -89,7 +89,7 @@ Final grades will be assigned according to the following, for a total of 1000 po
   - 200 points: final project
   - 100 points: active participation in classroom and on Slack
 
-Assignments must be submitted via Blackboard by 23:59 pacific time on their due date. Late assignment submissions will be deducted 20% per day. Late final project submissions will not be accepted or graded. It is your responsibility to ensure that all submissions have gone through, so please visually confirm successful submission in the system. You can expect grades to be posted within two weeks.
+Assignments must be submitted via Blackboard by 23:59 pacific time on their due date. Late assignment submissions will be deducted 20% per day. Late final project submissions will not be accepted or graded. If you have any technical issues when submitting, contact USC IT. It is your responsibility to ensure that all submissions have gone through, so please visually confirm successful submission in the system. You can expect grades to be posted within two weeks.
 
 
 
@@ -226,7 +226,7 @@ Readings to be completed prior to class:
 
 **Mar 24 - Spatial models**
 
-We introduce explicitly spatial models in the regression framework, including GWR and spatial-lag and spatial-error models, to predict and explain urban phenomena while accounting for ubiquitous spatial heterogeneity and diffusion.
+We introduce explicitly spatial models in the regression framework, including spatial fixed effects, spatial regimes, spatial lag, spatial error, and geographically-weighted regression, to predict and explain urban phenomena while accounting for spatial heterogeneity and diffusion.
 
 Readings to be completed prior to class:
 
@@ -241,7 +241,7 @@ Assignment 4 due April 4.
 
 **Mar 31 - Supervised learning**
 
-We introduce, from an applied perspective, machine learning through a class of algorithms known as supervised learning classifiers, including logistic regression, support vector machines, decision trees, random forests, k-nearest neighbors, perceptrons, and naive Bayes.
+We introduce, from an applied perspective, machine learning theory and methods. We explore a class of algorithms known as supervised learning classifiers, including logistic regression, support vector machines, decision trees, random forests, k-nearest neighbors, perceptrons, and naive Bayes.
 
 Readings to be completed prior to class:
 
@@ -313,6 +313,8 @@ Present your final projects to the group and engage in a discussion around each.
 Any student requesting academic accommodations based on a disability or ongoing mental health concern is required to register with Disability Services and Programs (DSP) each semester. A letter of verification for approved accommodations can be obtained from DSP. Please be sure the letter is delivered to the instructor as early in the semester as possible, as the accommodation can only be implemented upon receipt of the letter. Visit DSP's [web site](https://dsp.usc.edu/) for more details. For further support, I encourage you to contact USC Support and Advocacy (uscsupport@usc.edu). To maintain fairness and equality for all students, extensions to due dates are only granted in accordance with these official accommodation letters. If you need to request a *one-time emergency* extension to an assignment (e.g., due to a major illness or to a death in the family) you must do the following proactively *prior to its due date*: 1) provide written documentation, such as an official doctor's note, explaining that you are unable to complete the assignment by its due date and 2) work out an extension with the instructor.
 
 ## Academic Conduct
+
+Recording a university class is forbidden without the express permission of the instructor and announcement to the class. Recording can inhibit future free discussion and thus infringe on the academic freedom of other students as well as the instructor.
 
 Plagiarism, presenting someone else's ideas as your own, either verbatim or recast in your own words, is a serious academic offense with serious consequences. Please familiarize yourself with the discussion of plagiarism in SCampus in Part B, Section 11, "Behavior Violating University Standards" https://policy.usc.edu/scampus-part-b. Other forms of academic dishonesty are equally unacceptable. See additional information in SCampus and university policies on scientific misconduct, https://policy.usc.edu/scientific-misconduct.
 
